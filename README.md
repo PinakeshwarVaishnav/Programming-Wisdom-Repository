@@ -46,7 +46,15 @@ A curated collection of insightful blogs, articles, and essential readings by re
     - Edsger W. Dijkstra argues against the use of the goto statement in programming, sparking a debate that shaped programming practices.
 
 11. **[No Silver Bullet: Essence and Accidents of Software Engineering](https://worrydream.com/refs/Brooks-NoSilverBullet.pdf)** by Frederick P. Brooks Jr.
+
     - Frederick P. Brooks Jr. discusses the inherent complexities of software development and the search for a "silver bullet" solution.
+
+12. **[How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)** by Eric S. Raymond
+
+    - Eric S. Raymond provides guidance on the mindset and skills required to become a successful hacker in the programming sense.
+
+13. **[Paul Graham’s FAQ](http://www.paulgraham.com/pfaq.html)** by Paul Graham
+    - Paul Graham answers frequently asked questions about programming, startups, and his philosophies.
 
 ## Required Reading for Becoming a Great Programmer
 
@@ -73,5 +81,3 @@ A curated collection of insightful blogs, articles, and essential readings by re
 
 **Additional Information:**  
 Feel free to add more articles or essential readings, contribute your own insights, or organize the repository in a way that suits your preferences. Happy learning and exploring the wisdom of programming!
-
----
